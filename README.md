@@ -1,1 +1,1 @@
-[pig-game]{https://pig-game-jsversion.netlify.app/}
+[pig-game]-https://pig-game-jsversion.netlify.app/
